@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project builds a data-driven valuation framework to replicate how NBA front offices assess player value relative to contract cost. Using historical player performance and salary data (2010–2025), the model predicts expected salary, measures surplus value, and highlights market inefficiencies.
 
@@ -12,7 +12,7 @@ The goal is to support smarter decisions in **free agency, contract negotiations
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Predict NBA player salaries using machine learning  
 - Identify **undervalued and overvalued contracts**  
@@ -21,7 +21,7 @@ The goal is to support smarter decisions in **free agency, contract negotiations
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Data Cleaning & Feature Engineering
 - Standardized multi-season player statistics  
@@ -50,7 +50,7 @@ The goal is to support smarter decisions in **free agency, contract negotiations
 
 ---
 
-## 📊 Key Outputs
+##  Key Outputs
 
 - Optimized salary prediction model  
 - Player archetype clusters with interpretation  
@@ -62,7 +62,7 @@ The goal is to support smarter decisions in **free agency, contract negotiations
 
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 This project demonstrates how analytics can be used to:
 
@@ -73,7 +73,7 @@ This project demonstrates how analytics can be used to:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python  
 - pandas, NumPy  
@@ -85,7 +85,7 @@ This project demonstrates how analytics can be used to:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Peter Oloya**  
 Master of Management Analytics (MMA) – University of Alberta  
