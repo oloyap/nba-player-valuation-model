@@ -1,5 +1,5 @@
 # nba-player-valuation-model
-
+Dataset - https://www.kaggle.com/datasets/ratin21/nba-player-stats-and-salaries-2010-2025
 **NBA Player Valuation Model** – An end-to-end machine learning project that predicts NBA player salaries, identifies undervalued and overvalued contracts, and delivers front-office style insights using XGBoost, clustering, and surplus value analysis.
 
 ---
